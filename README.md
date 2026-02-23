@@ -34,6 +34,18 @@ This project is a 2D platformer inspired by the game Bubble Bobble. The player t
 - Win screen
 - Restart functionality
 
-## Assets
+## Bonus Feature
 
-Sprite and tile assets were sourced from free online asset packs and impplemented
+- Enemy escape timer from bubble
+- HUD with score and lives display  
+
+## Known Bugs / Limitations
+
+- Enemies have simple movement AI there is no advanced pathfinding or random turns
+- There is only one level not multiple levels 
+
+## How to Run
+
+1. Open the project in Godot
+2. Open `Main.tscn`
+3. Press the Play button
